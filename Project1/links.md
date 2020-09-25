@@ -17,3 +17,5 @@ http://dirk.eddelbuettel.com/code/rcpp.smc.html
 https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/johansen/smctc/
 
 https://www.sas.upenn.edu/~jesusfv/ejemplo.pdf
+
+https://www.sas.upenn.edu/~jesusfv/jae_december05.pdf
