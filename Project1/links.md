@@ -29,13 +29,17 @@ https://link.springer.com/article/10.1007/s11222-013-9429-x
 ## Stochastic Volatility:
 http://hedibert.org/wp-content/uploads/2013/12/UPCcourse-handouts.pdf
 
+https://onlinelibrary.wiley.com/doi/full/10.1002/jae.2397
+
 https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9469.2010.00723.x
 
 https://rss.onlinelibrary.wiley.com/doi/10.1111/j.1467-9868.2012.01046.x -- SMC2
 
 https://hea-www.harvard.edu/AstroStat/Stat310_1112/op_20120410.pdf -- SMC2
 
-https://etd.ohiolink.edu/!etd.send_file?accession=case1247125250&disposition=inline
+https://etd.ohiolink.edu/!etd.send_file?accession=case1247125250
+
+https://search.proquest.com/docview/2447545186
 
 https://www.stats.ox.ac.uk/~doucet/doucet_johansen_tutorialPF2011.pdf
 
