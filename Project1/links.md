@@ -1,9 +1,17 @@
 ## Intro:
+https://arxiv.org/pdf/1903.04797.pdf
+
 https://www.stats.ox.ac.uk/~doucet/smc_resources.html
 
 https://www.stats.ox.ac.uk/~doucet/samsi_course.html
 
 https://www.stats.ox.ac.uk/~doucet/doucet_defreitas_gordon_smcbookintro.pdf
+
+https://afst.centre-mersenne.org/article/AFST_2017_6_26_4_1051_0.pdf
+
+https://www.r-project.org/conferences/useR-2006/Slides/Jakobsen+Lins.pdf
+
+https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/readings/samsi_lec2.pdf
 
 http://apps.eui.eu/Personal/Canova/Teachingmaterial/herbst_schorfheide_book.pdf
 
@@ -43,14 +51,27 @@ https://search.proquest.com/docview/2447545186
 
 https://www.stats.ox.ac.uk/~doucet/doucet_johansen_tutorialPF2011.pdf
 
+https://www.stats.ox.ac.uk/~doucet/delmoral_doucet_jasra_sequentialmontecarlosamplersJRSSB.pdf
+
 https://www.stats.ox.ac.uk/~doucet/pitt_malik_doucet_continuousparticlefilterSVmodel.pdf
 
 
 ## Method:
 https://www.sas.upenn.edu/~jesusfv/ejemplo.pdf
 
+https://wwwf.imperial.ac.uk/~agandy/teaching/ltcc/lecture5_201415.pdf
+
 https://docs.pymc.io/notebooks/SMC2_gaussians.html
+
+https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.718.1479&rep=rep1&type=pdf
+
+http://user.it.uu.se/~thosc112/research/sequential-monte-carlo-smc.html
+
+https://octave-online.net/
 
 http://dirk.eddelbuettel.com/code/rcpp.smc.html
 
 https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/johansen/smctc/
+
+## Truncated Normal:
+https://arxiv.org/abs/1201.6140
